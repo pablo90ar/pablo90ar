@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pablo90ar
 - 👀 I’m interested in full stack JS tech
-- 🌱 I’m currently learning all L can put my hands on
+- 🌱 I’m currently learning all I can put my hands on :)
 - 📫 You can reach me just here
