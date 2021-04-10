@@ -17,7 +17,7 @@
 ## Languages, Frameworks an Tools I use
   In order from left to right (most to less used) 
     
-![](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&logo=javascript&logoColor=%23323330)  ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&logo=css3&logoColor=white)  
+![](https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&logo=javascript&logoColor=%23323330)  ![](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&logo=css3&logoColor=white)  
 
 
 ## Find me out there! 🌎
