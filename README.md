@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @pablo90ar
+- 👋 Hi, I’m Pablo!
 - 👀 I’m a Full Stack web developer
 - 🌱 I’m currently learning all I can about JS based tech :)
