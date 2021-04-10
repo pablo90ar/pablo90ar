@@ -15,10 +15,10 @@
   I'm constantly learning and searching new technologies, languages, tools, architecture, patterns...Knowledge doesn't take up space!
     
 ## Languages, Frameworks an Tools I use
-  In order from left to right (most to less used)
-  ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
-  ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&logo=html5&logoColor=white)
-  ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&logo=css3&logoColor=white)
+  In order from left to right (most to less used) 
+  ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)  
+  ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&logo=html5&logoColor=white)  
+  ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&logo=css3&logoColor=white)  
 
 
 ## Find me out there! 🌎
