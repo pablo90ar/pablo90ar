@@ -14,10 +14,13 @@
   I'm very proactive, autonomous and fast learner.
   I'm constantly learning and searching new technologies, languages, tools, architecture, patterns...Knowledge doesn't take up space!
     
-## Languages, Frameworks an Tools I use
+## Tools I use
   In order from left to right (most to less used) 
     
-![](https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&logo=javascript&logoColor=%23323330)  ![](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&logo=css3&logoColor=white)  
+# Languages
+![](https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&logo=javascript&logoColor=%23323330)  ![](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&logo=css3&logoColor=white)  ![](https://img.shields.io/badge/C++%20-%2300599C.svg?&logo=c%2B%2B&ogoColor=white)  ![](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white)
 
+# Frameworks
+![](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&logo=node.js&logoColor=white)  ![](https://img.shields.io/badge/express.js%20-%23404d59.svg?)
 
 ## Find me out there! 🌎
