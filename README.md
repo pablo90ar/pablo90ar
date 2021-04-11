@@ -25,6 +25,13 @@
 ![](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&logo=node.js&logoColor=white)  ![](https://img.shields.io/badge/Express.js%20-%23404d59.svg?&logo=express&logoColor=white)  ![](https://img.shields.io/badge/JWT%20-%23404d59.svg?&logo=JSON%20web%20tokens&logoColor=white)
 
 ### Frontend:
-![](https://img.shields.io/badge/React.js%20-%2320232a.svg?&logo=react&logoColor=%2361DAFB)  ![](https://img.shields.io/badge/React%20Native%20-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/React.js%20-%2320232a.svg?&logo=react&logoColor=%2361DAFB)  ![](https://img.shields.io/badge/React%20Native%20-%2320232a.svg?&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/Redux%20-%23593d88.svg?&logo=redux&logoColor=white)  ![]()
+
+### Databases:
+![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)  ![](https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=white)
+
+### Other Tech:
+![](https://img.shields.io/badge/Git%20-%23F05033.svg?&logo=git&logoColor=white)  ![](https://img.shields.io/badge/Heroku%20-%23430098.svg?&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/-Jest-%23C21325?&logo=jest&logoColor=white)  ![](https://img.shields.io/badge/-Elasticsearch-%23005571?&logo=Elasticsearch&logoColor=white)
+
 
 ## Find me out there! 🌎
