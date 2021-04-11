@@ -32,6 +32,3 @@
 
 ### Other Tech:
 ![](https://img.shields.io/badge/Git%20-%23F05033.svg?&logo=git&logoColor=white)  ![](https://img.shields.io/badge/Heroku%20-%23430098.svg?&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/-Jest-%23C21325?&logo=jest&logoColor=white)  ![](https://img.shields.io/badge/-Elasticsearch-%23005571?&logo=Elasticsearch&logoColor=white)
-
-
-## Find me out there! 🌎
