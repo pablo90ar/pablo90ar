@@ -4,8 +4,8 @@
   I'm a Full Stack Web Developer with focus on JS technologies such as MERN stack. I'm from Rafaela, Santa Fe, Argentina.
 
 ## Education:
-  Highschool: Electronics Technic degree (2008). I enyoied working with software, while programming MCU's. 
-  Actuallity: Studiyng to become a Universitary Programming Technic.
+  - Highschool: Electronics Technic degree (2008). I enyoied working with software, while programming MCU's. 
+  - Actuallity: Studiyng to become a Universitary Programming Technic.
 
 ## Work Experience
   My work experience goes all the way from Industrial Automation, Electronics, Education, to the biggest ISP Firm in my Country, in which I'm rigth now.
