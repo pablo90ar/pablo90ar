@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Pablo!
 
 ## About me:
-  I'm a Full Stack Web Developer with focus on JS technologies such as MERN stack. I'm from Rafaela, Santa Fe, Argentina.
+  I'm a Full Stack Web Developer with focus on JS technologies such as MERN stack. I'm from Argentina.
 
 ## Education:
   - Highschool: Electronics Technic degree (2008). I enyoied working with software, while programming MCU's. 
