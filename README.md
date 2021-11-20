@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Pablo!
 
 ## About me:
-  I'm a Full Stack Web Developer with focus on JS technologies such as MERN stack. I'm from Argentina.
+  I'm a Full Stack Web Developer from Argentina.
     
 ## Tools I use
   In order from left to right (most to less used) 
