@@ -2,17 +2,6 @@
 
 ## About me:
   I'm a Full Stack Web Developer with focus on JS technologies such as MERN stack. I'm from Argentina.
-
-## Education:
-  - Highschool: Electronics Technic degree (2008). I enyoied working with software, while programming MCU's. 
-  - Actuallity: Studiyng to become a Universitary Programming Technic.
-
-## Work Experience
-  My work experience goes all the way from Industrial Automation, Electronics, Education, to the biggest ISP Firm in my Country, in which I'm rigth now.
-
-## How do I work?
-  I'm very proactive, autonomous and fast learner.
-  I'm constantly learning and searching new technologies, languages, tools, architectures, patterns...Knowledge doesn't take up space!
     
 ## Tools I use
   In order from left to right (most to less used) 
