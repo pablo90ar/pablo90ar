@@ -7,7 +7,7 @@
   In order from left to right (most to less used) 
     
 ### Languages:
-![](https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&logo=javascript&logoColor=%23323330)  ![](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&logo=css3&logoColor=white)  ![](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white)   ![](https://img.shields.io/badge/-%2300599C.svg?&logo=c&logoColor=white) ![](https://img.shields.io/badge/Python-%2300599C.svg?&logo=Python&logoColor=%23323330)
+![](https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&logo=javascript&logoColor=%23323330)  ![](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&logo=css3&logoColor=white)  ![](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white)   ![](https://img.shields.io/badge/-%2300599C.svg?&logo=c&logoColor=white) ![](https://img.shields.io/badge/Python-%231572B6.svg?&logo=Python&logoColor=%23323330)
 
 
 ### Frameworks:
