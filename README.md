@@ -7,7 +7,7 @@
   In order from left to right (most to less used) 
     
 ### Languages:
-![](https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&logo=javascript&logoColor=%23323330)  ![](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&logo=css3&logoColor=white)  ![](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white)   ![](https://img.shields.io/badge/-%2300599C.svg?&logo=c&logoColor=white) ![](https://img.shields.io/badge/Python-%23ED8B00.svg?&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&logo=javascript&logoColor=%23323330)  ![](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&logo=css3&logoColor=white)  ![](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white)   ![](https://img.shields.io/badge/-%2300599C.svg?&logo=c&logoColor=white)  ![](https://img.shields.io/badge/Python-%23ED8B00.svg?&logo=Python&logoColor=white)
 
 
 ### Frameworks:
@@ -21,4 +21,4 @@
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)  ![](https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=white)  ![](https://img.shields.io/badge/-Elasticsearch-%23005571?&logo=Elasticsearch&logoColor=white)
 
 ### Other Tech:
-![](https://img.shields.io/badge/Git%20-%23F05033.svg?&logo=git&logoColor=white)  ![](https://img.shields.io/badge/Heroku%20-%23430098.svg?&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/-Jest-%23C21325?&logo=jest&logoColor=white)  
+![](https://img.shields.io/badge/Git%20-%23F05033.svg?&logo=git&logoColor=white)  ![](https://img.shields.io/badge/Heroku%20-%23430098.svg?&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/-Jest-%23C21325?&logo=jest&logoColor=white)  ![](https://img.shields.io/badge/-Jenkins-%23C21325?&logo=Jenkins&logoColor=white)  
